@@ -168,7 +168,6 @@ header div ul li:hover {
     padding: 20px;
     padding-top: 250px;
     /* width: 100%; */
-    height: 300px;
     margin: 0 auto;
     width: calc(100% - 40px);
     max-width: 1000px;
