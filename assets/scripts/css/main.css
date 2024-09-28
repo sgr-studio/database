@@ -234,3 +234,23 @@ header div ul li:hover {
     font-size: 18px;
     text-decoration: none;
 }
+
+/* footer */
+footer {
+    width: calc(100vw - 20px);
+    height: 300px;
+    background: #333;
+    color: white;
+}
+footer div {
+    max-width: 1000px;
+    margin: 0 auto;
+    display:flex;
+}
+footer div div:first-child {
+    min-width: 200px;
+    max-width: 300px;
+}
+footer div div:last-child {
+    width: 100%;
+}
