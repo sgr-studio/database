@@ -140,6 +140,8 @@ header div div img {
     width: 40px;
 }
 header div ul {
+    text-decoration: none;
+    color: #222;
     min-width: 100px;
     display: flex;
     list-style: none;
