@@ -5,7 +5,7 @@ window.onload = function () {
         setInterval(() => {
             document.getElementById("loading").style.display="none";
         }, 500);
-    }, 1500);
+    }, 500);
 }
 
 // headerの表示非表示機構
