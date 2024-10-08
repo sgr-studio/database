@@ -17,6 +17,6 @@ function createCard(text){
     let card = document.createElement("div");
     card.setAttribute("class","card");
     card.setAttribute("id",""+count);
-    card.innerHTML="<div class='project-name'><h3>"+ text +"</h3></div><img src='/assets/textures/img/wallpaper/" + url[count] + "'>";
+    card.innerHTML="<div class='project-name'><h3>"+ text +"</h3></div><img src='https://sgr-studio.github.io/database/assets/textures/img/wallpaper/" + url[count] + "'>";
     holder.prepend(card);
 }
