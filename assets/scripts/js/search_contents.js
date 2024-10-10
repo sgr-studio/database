@@ -3,7 +3,7 @@ const _inputSearchTile = document.getElementById("searchTile");
 const _output = document.getElementById("result");
 let _inputValue = "";
 
-const url = "https://sgr-studio.github.io/database/assets/scripts/json/_contents.json";
+const url = "https://raw.githubusercontent.com/sgr-studio/database/refs/heads/main/assets/scripts/json/_contents.json";
 
 _input.addEventListener("keydown", function (e) {
     _inputValue = _input.value.trim();
