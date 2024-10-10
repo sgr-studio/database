@@ -197,6 +197,18 @@ body.darkMode header div ul li:hover {
 .darkMode div.main div.top div div.title div div h1 span.marker {
     color: white !important;
 }
+body.darkMode div.main div.contents div div h2 {
+    background: #222;
+}
+body.darkMode div.main div.contents div div p {
+    background: #222;
+}
+body.darkMode div.main div.contents div div h2 {
+    background: #222;
+}
+body.darkMode div.main div.contents div div p {
+    background: #222;
+}
 body.darkMode div.main div.contents2 div div h2 {
     background: #222;
 }
