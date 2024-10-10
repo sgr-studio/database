@@ -22,7 +22,7 @@
         "id": 3,
         "title": "notPort",
         "comment": "リアルの方で都合が悪くなって開発中止",
-        "url": "https://github.com/sgr-studio/notport",
+        "url": "github.com/sgr-studio/notport",
         "create_date": "2023年12月14日",
         "version": 1,
         "author": "SGR"
@@ -31,7 +31,7 @@
         "id": 4,
         "title": "Favor",
         "comment": "自分用に使うためのブックマークサイト",
-        "url": "https://sgr-studio.github.io/favor",
+        "url": "sgr-studio.github.io/favor",
         "create_date": "2024年10月1日",
         "version": 1,
         "author": "SGR"
