@@ -1,0 +1,99 @@
+.profile {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(https://sgr-studio/database/assets/textures/img/wallpaper/profileBG.png);
+    height: 150px;
+    transition: 0.3s all;
+}
+.profile_info {
+    padding-top: 35px;
+    text-align: center;
+}
+.profile_info h4 {
+    font-family: "Kanit", sans-serif !important;
+    font-size: 30px;
+}
+.profile div {
+    position: relative;
+    top: 75px;
+    margin: 0 auto;
+    display: flex;
+}
+.profile div img {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+/* contents 2 */
+.contents2 {
+    padding: 20px;
+    padding-top: 45px; 
+    width: calc(100% - 40px);
+    max-width: 1000px;
+}
+.contents2 div {
+    width: 100% !important;
+    margin: 0 auto;
+    display: flex;
+    padding-bottom: 60px;
+    max-width: max-content;
+}
+.contents2 div div {
+    display: block;
+}
+.contents2 h2 {
+    padding: 10px;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    height: 30px;
+    min-width: 490px;
+    line-height: 30px;
+    max-width: calc(100% - 20px);
+}
+.contents2 div p {
+    background-color: #eeeeee;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-width: 490px;
+}
+.contents2 div p span {
+    margin-right: 5px;
+}
+
+#batch {
+    width: 110px;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 40px;
+    background: white;
+    border-radius: 40px;
+    position: absolute;
+    top: 265px;
+    left: calc(50vw - 190px);
+    font-size: 30px;
+    line-height: 40px;
+    vertical-align: middle !important;
+    align-items: center;
+    display: flex;
+}
+#batch i {
+    width: 30px;
+    height: 40px;
+    border-radius: 40px; 
+    overflow: hidden;
+
+}
+#verifity {
+    color: rgb(39, 133, 255);
+}
+#owner {
+    color: rgb(255, 208, 0);
+}
+#admin {
+    color: rgb(0, 146, 0);
+}
+#creator {
+    color: rgb(202, 41, 41);
+}
