@@ -35,6 +35,15 @@
         "create_date": "2024年10月1日",
         "version": 1,
         "author": "SGR"
+      },
+      {
+        "id": 5,
+        "title": "notPort mk2",
+        "comment": "初期より改善してる掲示板サイト",
+        "url": "github.com/sgr-studio/notport-mk2",
+        "create_date": "2024年10月24日",
+        "version": 1.02,
+        "author": "SGR"
       }
     ]
 }
